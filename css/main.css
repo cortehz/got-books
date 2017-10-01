@@ -1,0 +1,120 @@
+h1,h3,h5,h6 {
+  font-family: "Playfair Display", serif;
+  font-weight: 200;
+  color: white;
+}
+
+h4 {
+  color: #666;
+  font-size: 1em;
+}
+
+h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: 200;
+  color: #04214f;
+  font-size: 2em;
+}
+
+p,a,li,blockquote {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 300;
+}
+
+.cover {
+  background-image: url("https://cdn.vox-cdn.com/thumbor/q0c3ZHr5C5CxH9s4Z9BrE5Gj62o=/3x0:1016x675/1200x800/filters:focal(3x0:1016x675)/cdn.vox-cdn.com/assets/2357173/grrmartin1_1020.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  height: 32rem;
+  border-bottom: solid 0.3em;
+  border-color: #5DBCD2;
+  align-content: center;
+}
+
+.inner {
+  background-color: rgba(93, 188, 210,0.5);
+  padding: 0.5%;  
+  border-radius: 10px;
+  width: 100%;
+
+}
+
+.special {
+  font-family: 'Archivo Narrow', sans-serif;
+  font-weight: 500;
+  font-size: 2em;
+  color: white;
+}
+  
+
+
+/*Books css*/
+.books {
+  margin-top: 2.5em;
+}
+
+.thumbnail {
+  margin: 10%;
+  border: 0;
+  border-bottom: 0;
+  }
+ 
+ #get {
+  color: #04214f;
+  font-size: 1.5em;
+ }
+
+.here {
+  color: red;
+  font-family: "Playfair Display", serif;
+  font-weight: 200;
+  text-decoration: none;
+}
+
+ .here:hover {
+  color: #bf4e4e;
+  font-family: "Playfair Display", serif;
+  font-weight: 400;
+  text-decoration: none;
+ }
+
+ .youtube {
+background: #a73737;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #7a2828, #a73737);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #7a2828, #a73737); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+border-bottom: solid 0.3em;
+border-color: #5DBCD2;
+ }
+
+.frame {
+  width: 100%;
+}
+#winter{
+  margin-top: 2%;
+}
+
+ #quote {
+  margin-top: 1.5em;
+    color: #04214f;
+    font-size: 2em;
+ }
+
+ .quote-items {
+    font-family: 'Archivo Narrow', sans-serif;
+    text-align: center;
+    font-size: 1.5em;
+      
+}
+
+.bold {
+  font-weight: 600;
+}
+
+.the-quotes{
+   border-bottom: solid 0.3em;
+   border-color: #5DBCD2;
+}
+
+.red{
+  color: red;
+}
